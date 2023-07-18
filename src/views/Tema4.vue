@@ -269,7 +269,7 @@
       img(src='@/assets/curso/tema4/img15.png' alt="Funcionamiento de frenos, del sistema de dirección, del sistema de suspensión")
     .row.justify-content-center.mb-lg-0.mb-5
       .col-lg-10.BGR15.img-02.p-4(data-aos="fade-right")
-        p.mb-0 Adicional a las señalizaciones y equipos para emergencias es necesario que el vehículo que transporta residuos peligrosos cuente con perfecto funcionamiento de frenos, del sistema de dirección, del sistema de suspensión, del sistema de señales visuales y audibles permitidas y del sistema de escape de gases; además demostrar un estado adecuado de llantas, del conjunto de vidrios de seguridad y espejos según lo establecido en el CNTT y el cumplimiento de la norma de emisión de gases.
+        p.mb-0 Adicional a las señalizaciones y equipos para emergencias, es necesario que el vehículo que transporta residuos peligrosos cuente con perfecto funcionamiento de frenos, del sistema de dirección, del sistema de suspensión, del sistema de señales visuales y audibles permitidas y del sistema de escape de gases; además demostrar un estado adecuado de llantas, del conjunto de vidrios de seguridad y espejos según lo establecido en el CNTT y el cumplimiento de la norma de emisión de gases.
 
     .BGM01.px-md-5.px-4.mb-4
       .row.justify-content-center.align-items-center
@@ -365,7 +365,7 @@
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle(style="color: #4DB1F0;")
               | Ante cualquier anomalía detener la operación y no continuar hasta realizar la corrección oportuna.
-    p Así mismo se recomienda establecer una planificación del transporte donde se incluya:
+    p Así mismo, se recomienda establecer una planificación del transporte donde se incluya:
 
     .BGM01.px-md-5.px-4.mb-5
       .row.justify-content-center.align-items-center

@@ -161,12 +161,16 @@
       .col-lg-8(data-aos="fade-left")
         TabsA.color-acento-contenido
           .tarjeta.BGR04.p-4(titulo="Solidificación")
+            .h4 Solidificación
             p.mb-0 A partir de los residuos tratados se forma una masa monolítica incrementando su dureza y disminuyendo la compresibilidad y permeabilidad.
           .tarjeta.BGR04.p-4(titulo="Estabilización")
+            .h4 Estabilización
             p.mb-0 A través de esta técnica se busca reducir el área superficial de los RESPEL para reducir la transferencia de masa y la solubilidad de los contaminantes.
           .tarjeta.BGR04.p-4(titulo="Fijación inorgánica")
+            .h4 Fijación inorgánica
             p.mb-0 Los residuos sólidos peligrosos se mezclan con materiales como el cemento o la cal.
           .tarjeta.BGR04.p-4(titulo="Encapsulamiento")
+            .h4 Encapsulamiento
             p.mb-0 Los residuos sólidos peligrosos se insertan en capas de asfalto, polietileno, o vidrio.
 
     ul.lista-ul--color.mb-5(data-aos="fade-right")

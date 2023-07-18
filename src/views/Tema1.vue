@@ -39,10 +39,10 @@
           .tarjeta.BGR04.p-4(titulo="Línea base")
             h4 Línea base
             p.mb-0 Es la fase de recopilación de información a través de mediciones en campo y otros elementos como encuestas e información secundaria de entidades para identificar causas y consecuencias de las problemáticas asociadas con los residuos.
-          .tarjeta.BGR04.p-4(titulo="Objetivos y meta")
+          .tarjeta.BGR04.p-4(titulo="Objetivos y metas")
             h4 Objetivos y metas
             p.mb-0 Establecer objetivos y metas claros que se quieren lograr con el manejo o gestión de los residuos, la idea es que también sean soluciones reales a los problemas identificados en el territorio por medio de la línea base.
-          .tarjeta.BGR04.p-4(titulo="Programas y proyectos")
+          .tarjeta.BGR04.p-4(titulo="Programas")
             h4 Programas y proyectos para la implementación
             p Es obligatorio que los objetivos y las metas específicas se materialicen a través de programas y proyectos viables y sostenibles, enfocados en cada uno de los componentes del servicio, dentro de los programas que deben ser formulados se encuentra:
             ul.lista-ul--color.lista-ul--separador

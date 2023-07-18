@@ -432,18 +432,6 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Gloria Amparo López Escudero',
-          cargo: 'Adecuador Instruccional',
-          centro:
-            'Regional Distrito Capital - Centro de gestión de Mercados, Logística y Tecnologías de la Información',
-        },
-        {
-          nombre: 'Alix Cecilia Chinchilla Rueda',
-          cargo: 'Asesor Metodológico',
-          centro:
-            'Regional Distrito Capital - Centro de gestión de Mercados, Logística y Tecnologías de la Información',
-        },
-        {
           nombre: 'Xiomara Becerra Aldana',
           cargo: 'Instructora Ambiental',
           centro: 'Regional Distrito Capital - Centro de gestión industrial',
@@ -480,6 +468,18 @@ export default {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
           cargo: 'Corrección de estilo',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Gloria Amparo López Escudero',
+          cargo: 'Adecuador Instruccional',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Asesor Metodológico',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },

@@ -191,7 +191,7 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 De acuerdo con la GTC 53-7 (2006) el compostaje es un proceso biológico controlado que permite la degradación y estabilización de la materia orgánica por la acción de microorganismos y por medio del cual se obtiene abono. El proceso de compostaje se puede desarrollar de forma aeróbica, anaeróbica o ambos, en cualquiera de los casos se degrada una matriz sólida compuesta principalmente por residuos sólidos orgánicos y en todos existe el auto calentamiento.
 
-    p Como resultado del proceso de compostaje se genera un producto llamado compost que se puede utilizar en zonas urbanas como parques, en cultivos agrícolas o incluso en recuperación forestal de espacios intervenidos, el compost aumenta la capa vegetal y la capacidad del suelo de retener nutrientes al tiempo que mejora la textura del terreno y retiene el agua en época de lluvias.
+    p Como resultado del proceso de compostaje se genera un producto llamado #[em compost] que se puede utilizar en zonas urbanas como parques, en cultivos agrícolas o incluso en recuperación forestal de espacios intervenidos, el #[em compost] aumenta la capa vegetal y la capacidad del suelo de retener nutrientes al tiempo que mejora la textura del terreno y retiene el agua en época de lluvias.
     p.mb-5 El proceso de compostaje se realiza mediante las siguientes etapas:
 
     .BGR14.p-4.mb-5
@@ -224,7 +224,7 @@
         .row.justify-content-around
           .col-lg-6.order-lg-1.order-2
             .h4.mt-5 Acabado
-            p.mb-0 Se tamiza el compost para mejorar la uniformidad y apariencia, se almacena y se comercializa.
+            p.mb-0 Se tamiza el #[em compost] para mejorar la uniformidad y apariencia, se almacena y se comercializa.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema6/img20.png' alt="Acabado")
     
@@ -236,7 +236,7 @@
     .BGM01.px-md-5.px-4.mt-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
-          p Al igual que otras estrategias de aprovechamiento en este caso los residuos sólidos orgánicos se descomponen por la acción microbiana, la diferencia radica en que para la digestión anaeróbica el proceso se realiza en ausencia de oxígeno y de luz, como resultado se obtiene biogás.
+          p Al igual que otras estrategias de aprovechamiento, en este caso los residuos sólidos orgánicos se descomponen por la acción microbiana, la diferencia radica en que para la digestión anaeróbica el proceso se realiza en ausencia de oxígeno y de luz, como resultado se obtiene biogás.
           p Para este proceso es importante que los residuos sólidos orgánicos estén protegidos del agua, de acuerdo también a las características de la materia prima que se trate el biogás obtenido tendrá diferente composición, sin embargo, el principal componente será el metano que se encontrará en una concentración entre el 50 y el 70 %.
           p.mb-0 La digestión anaerobia se realiza en tres fases que son las siguientes:
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")

@@ -36,7 +36,7 @@
               | No se debe compactar las bolsas que contienen residuos o desechos peligrosos.
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle(style="color: #4DB1F0;")
-              | El recipiente al igual que la bolsa podrá llenarse hasta un máximo de (3/4) partes de su capacidad.
+              | El recipiente, al igual que la bolsa, podrá llenarse hasta un máximo de (3/4) partes de su capacidad.
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle(style="color: #4DB1F0;")
               | Se recomienda elaborar ayudas visuales e informativas para facilitar el proceso de segregación en la fuente tanto por el personal trabajador como por el personal visitante.
@@ -52,21 +52,21 @@
     #t_3_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.2 Condiciones para la separación en la fuente según el tipo de residuo
 
-    p.mb-5 De acuerdo con las condiciones o materiales de residuos se pueden tener otras consideraciones importantes para el momento de la separación, como las que se mencionan a continuación: 
+    p.mb-5 De acuerdo con las condiciones o materiales de residuos, se pueden tener otras consideraciones importantes para el momento de la separación, como las que se mencionan a continuación: 
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema3/img03.png' alt="separación en la fuente según el tipo de residuo")
       .col-lg-8(data-aos="fade-left")
         TabsA.color-acento-contenido
-          .tarjeta.BGR04.p-4(titulo="Residuos plásticos")
+          .tarjeta.BGR04.p-4(titulo="Plásticos")
             .h4 Separación de residuos plásticos
             p Una vez se tengan todos los residuos plásticos generados, estos se pueden subdividir de acuerdo con la resina plástica que los compone, para ello se contempla la Guía Técnica Colombia GTC 53- 2 (2004), gestión ambiental, residuos sólidos, guía para el aprovechamiento de los residuos plásticos.
             p.mb-0 La separación en la fuente de este residuo a nivel doméstico es, generalmente suficiente para separar los envases o productos plásticos en un contenedor diferenciado y específico que permita recolectar los residuos plásticos libres de contaminación hasta una cantidad que facilite el transporte económico al procesador o usuario final ICONTEC. (2004).  GTC 53- 2.
-          .tarjeta.BGR04.p-4(titulo="Residuos papel y cartón")
+          .tarjeta.BGR04.p-4(titulo="Papel y cartón")
             .h4 Separación de residuos papel y cartón
             p.mb-0 Para la separación en la fuente de los residuos papel y cartón, lo que se solicita normalmente es tener un contenedor específico para este tipo de residuos, en lo posible garantizar que no se encuentre contaminado por otro tipo de residuos, una vez esta separación, en las plantas de tratamiento se puede realizar una reclasificación de acuerdo con las fibras celulósicas que contienen, teniendo en cuenta la Guía Técnica Colombia GTC 53- 4 (2003).
-          .tarjeta.BGR04.p-4(titulo="Residuos de vidrio")
+          .tarjeta.BGR04.p-4(titulo="Vidrio")
             .h4 Separación de residuos de vidrio
             p Para la gestión de residuos de vidrio, se cuenta con la GTC 53-3 (1998), gestión ambiental, residuos sólidos, guía para el aprovechamiento de envases de vidrio, en la cual describe la separación y selección de los envases de vidrio posconsumo, esta separación debe hacerse en el sitio donde se consume el producto contenido en el envase de vidrio.
             p A este material se le puede hacer una sub separación o clasificación dependiendo de su color:
@@ -87,7 +87,7 @@
                     i.fas.fa-check-circle(style="color: #115089;")
                     |	Verde.
             p.mb-0 De acuerdo con la ICONTEC (1998), la separación se debe hacer, debido a la composición química de cada uno de los materiales, no permite que cuando se reincorporen al ciclo productivo para la fabricación de nuevos envases, se puedan mezclar unos con los otros.
-          .tarjeta.BGR04.p-4(titulo="Residuos metálicos")
+          .tarjeta.BGR04.p-4(titulo="Metálicos")
             .h4 Separación de residuos metálicos
             p.mb-0 Para la separación de los residuos metálicos generados, lo que se solicita normalmente es tener un contenedor específico para estos residuos y en lo posible garantizar que no se encuentre contaminado por otros tipos de residuos. Para la gestión de residuos metálicos, se cuenta con la GTC 53-5 (1999).
       

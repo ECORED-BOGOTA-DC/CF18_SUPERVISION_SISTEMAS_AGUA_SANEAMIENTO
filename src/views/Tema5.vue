@@ -69,7 +69,7 @@
     #t_5_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 5.2 Actores involucrados en el almacenamiento
 
-    p.mb-5 Durante el almacenamiento de estos elementos, es necesario tomar las medidas de prevención respectivas con el fin de evitar daños a la salud de estos actores al igual que al medio ambiente. Dentro de los actores involucrados en el proceso de almacenamiento se pueden describir dos partes que son:
+    p.mb-5 Durante el almacenamiento de estos elementos, es necesario tomar las medidas de prevención respectivas con el fin de evitar daños a la salud de estos actores al igual que al medio ambiente. Dentro de los actores, involucrados en el proceso de almacenamiento se pueden describir dos partes que son:
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-md-8.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
@@ -113,7 +113,7 @@
           ul.lista-ul--color.lista-ul--separador
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle(style="color: #4DB1F0;")
-              p.mb-0 #[strong Ubicación:] los más alejado de fuentes de agua y de centros poblados que facilite el ingreso de los vehículos de transporte.
+              p.mb-0 #[strong Ubicación:] alejado de las fuentes de agua y de centros poblados que facilite el ingreso de los vehículos de transporte.
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle(style="color: #4DB1F0;")
               p.mb-0 #[strong Diseño:] debe permitir la separación de los residuos de acuerdo con sus características, se sugiere que tenga muros cortafuegos o áreas separadas, dentro del diseño se puede establecer algunas características fundamentales:
