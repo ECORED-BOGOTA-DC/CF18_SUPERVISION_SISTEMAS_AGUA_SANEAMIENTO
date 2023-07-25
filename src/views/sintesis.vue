@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La gráfica muestra la síntesis del componente formativo, Técnicas de tratamiento, diciendo que utiliza metodologías de muestreo, de qué se encarga y que realiza la caracterización de residuos peligrosos y separación de residuos.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

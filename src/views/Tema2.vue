@@ -123,7 +123,7 @@
 
       .row.justify-content-center.mb-5
         .col-lg-6(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img08.svg' alt="Decreto 1076")
+          img(src='@/assets/curso/tema2/img08.svg' alt="Decreto 1076, articulo 2.2.6.1.2.3<br>Con base en el conocimiento técnico sobre las características de los insumos y procesos, se puede identificar si el residuo posee una o varias de las características que le otorgarían la calidad de peligroso. <br>A través de las listas de residuos o desechos peligrosos contenidas en el Anexo I y II de decreto. <br>A través de la caracterización físico-química de los residuos o desechos generados.")
       
       p.mb-5 Si se debe preferir, esta última opción, la caracterización debe ser desarrollada bajo estándares normativos vigentes, los cuales especificarán el procedimiento adecuado y seguro para la identificación de la peligrosidad.
 

@@ -64,7 +64,7 @@
         p Este elemento permite de forma clara especificar que en el vehículo se están transportando sustancias peligrosas, la base de los rótulos es la clasificación de la Organización de las Naciones Unidas (ONU), conforme a los lineamientos dados por el Ministerio de Transporte en la NTC 1692 (2005).
         p.mb-0 Deben estar ubicados a dos metros de distancia en la parte lateral de la unidad de transporte a una altura que permita su fácil lectura, en camiones, remolques y semirremolques los rótulos deben ser fijos y debe existir un rótulo por cada característica de peligrosidad.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema4/img07.jpg' alt="rótulo por cada característica de peligrosidad")
+        img(src='@/assets/curso/tema4/img07.jpg' alt="Muestra diferentes rótulos de identificación, como: radiación, materiales tóxicos, corrosión, fuente de campo magnético, peligro deslizarse, materiales explosivos,  peligro general y peligro eléctrico.")
 
     .BGM01.px-md-5.px-4.mb-5
       p.mb-5 Así mismo en las guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos se menciona que el Ministerio de Transporte define requerimientos respecto a los rótulos basándose en la NTC 1692 (2005) entre los que se encuentran:
