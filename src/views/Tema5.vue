@@ -69,7 +69,7 @@
     #t_5_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 5.2 Actores involucrados en el almacenamiento
 
-    p.mb-5 Durante el almacenamiento de estos elementos, es necesario tomar las medidas de prevención respectivas con el fin de evitar daños a la salud de estos actores al igual que al medio ambiente. Dentro de los actores, involucrados en el proceso de almacenamiento se pueden describir dos partes que son:
+    p.mb-5 Durante el almacenamiento de estos elementos, es necesario tomar las medidas de prevención respectivas con el fin de evitar daños a la salud de estos actores, al igual que al medio ambiente. Dentro de los actores involucrados en el proceso de almacenamiento se pueden describir dos partes que son:
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-md-8.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
