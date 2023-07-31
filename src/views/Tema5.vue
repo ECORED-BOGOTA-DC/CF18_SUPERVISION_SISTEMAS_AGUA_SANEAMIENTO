@@ -11,7 +11,7 @@
     .BGM01.px-md-5.px-4.mt-4mb-5
       .row.justify-content-end.align-items-center
         .col-lg-5.col-10.img-03.z-01
-          img(src='@/assets/curso/tema5/img01.png' alt="Sustancias químicas peligrosas y residuos peligrosos")
+          img(src='@/assets/curso/tema5/img01.png' alt="Imagen decorativa")
         .col-lg-6.z-02
           .BGR24.p-4
             p.mb-0 De acuerdo con el Ministerio de Ambiente, Vivienda y Desarrollo Territorial (MAVDT) y el consejo colombiano de seguridad (CCS), (s.f.), en la guía ambiental de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos, describe que, durante el almacenamiento de sustancias químicas y residuos peligrosos es necesario tomar medidas de prevención y control para evitar daños a la salud de los trabajadores e impactos negativos al ambiente. En el caso particular de los residuos peligrosos, su tiempo de almacenamiento debería corresponder al mínimo posible, solo como un paso previo a su tratamiento y disposición final responsable.
@@ -63,7 +63,7 @@
               span 9
             | Mantener los equipos y los elementos de protección personal.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema5/img02.svg' alt="Almacenamiento")
+        img(src='@/assets/curso/tema5/img02.svg' alt="Imagen decorativa")
 
     separador
     #t_5_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -75,7 +75,7 @@
       .col-lg-6.col-md-8.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema5/img03.png' alt="Administrador de la bodega de almacenamiento")
+          img(src='@/assets/curso/tema5/img03.png' alt="Imagen decorativa")
           .tarjetas-up_card.tarjeta.color-acento-contenido.p-xl-4.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.text-white.mb-4
               span
@@ -86,7 +86,7 @@
       .col-lg-6.col-md-8.col-sm-10.mb-xl-0.mb-4(data-aos="fade-left")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema5/img04.png' alt="Operarios del sitio de almacenamiento")
+          img(src='@/assets/curso/tema5/img04.png' alt="Imagen decorativa")
           .tarjetas-up_card.tarjeta.color-primario.p-xl-4.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.text-white.mb-4
               span
@@ -103,7 +103,7 @@
       .row.justify-content-center.align-items-center
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
           img(src='@/assets/curso/tema5/img05.svg')
-        .col-lg-8(data-aos="fade-left")
+    Imagen decorativa")
           p.mb-0 De acuerdo con el Ministerio de Ambiente, Vivienda y Desarrollo Territorial (MAVDT) y el consejo colombiano de seguridad (CCS), (s.f.), en la guía ambiental de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos, un factor importante para disminuir los impactos ambientales en un sitio de almacenamiento es contar con un lugar adecuado que reúna todas las condiciones necesarias para esta actividad. Para los nuevos sitios destinados al almacenamiento de sustancias y residuos peligrosos se recomienda que dentro de la planeación se contemplen los requisitos aquí descritos y para aquellas que ya están en funcionamiento lo aconsejable es realizar todas las medidas posibles para alcanzar estos requerimientos.
     
     .BGM01.px-md-5.px-4.mt-4.mb-5
@@ -130,12 +130,12 @@
               i.fas.fa-check-double(style="color: #4DB1F0;")
               p.mb-0 #[strong Drenaje:] debe tener drenajes internos, si es para almacenamiento de residuos peligrosos el drenaje no debe ser conectado al alcantarillado sin pasar por un proceso de depuración.
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema5/img06.png' alt="Áreas de almacenaje")
+          img(src='@/assets/curso/tema5/img06.png' alt="Imagen decorativa")
     
     .BGM01.px-md-5.px-4.mt-4.mb-5
       .row.justify-content-center
         .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema5/img07.png' alt="Almacen")
+          img(src='@/assets/curso/tema5/img07.png' alt="Imagen decorativa")
         .col-lg-6(data-aos="fade-left")
           ul.lista-ul--color.lista-ul--separador
             li(style="margin-bottom: 2px")

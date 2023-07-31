@@ -16,7 +16,7 @@
     .BG10.p-4.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema2/img01.svg' alt="Desecho peligroso")
+          img(src='@/assets/curso/tema2/img01.svg' alt="Imagen decorativa")
         .col-lg-9(data-aos="fade-left")
           .h4 Nota importante
           p.mb-0 La mezcla de un residuo o desecho peligroso con uno que no lo es, le confiere a este último, características de peligrosidad y debe ser manejado como residuo o desecho peligroso.
@@ -38,7 +38,7 @@
                 i.fas.fa-check-circle(style="color: #4DB1F0;")
                 | Identificar las características de peligrosidad de cada uno de los residuos o desechos peligrosos que genere, para lo cual podrá tomar como referencia el procedimiento establecido en el presente título sin perjuicio de lo cual la autoridad ambiental podrá exigir en determinados casos la caracterización físico- química de los residuos o desechos si así lo estima conveniente o necesario.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema2/img02.svg' alt="Manejo que se dé a los residuos o desechos peligrosos")
+          img(src='@/assets/curso/tema2/img02.svg' alt="Imagen decorativa")
 
     .BGR04.p-4.mb-4(data-aos="flip-up")
       .row.justify-content-center.align-items-center
@@ -69,10 +69,10 @@
                 .h4 Componente de prevención y minimización
                 p.mb-0 Centrado en realizar el diagnóstico de la organización, identificando fuentes de generación de posibles residuos peligrosos, su caracterización, luego se pasa a la cuantificación y la primera aproximación de estrategias de prevención.
               .col-lg-2.col-4.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-                img(src='@/assets/curso/tema2/img03.svg', alt='Componente de prevención y minimización')
+                img(src='@/assets/curso/tema2/img03.svg', alt='Imagen decorativa')
             .row.justify-content-center
               .col-lg-2.col-4.mb-lg-0.mb-4(data-aos="fade-right")
-                img(src='@/assets/curso/tema2/img04.svg' alt="Componente de manejo interno seguro")
+                img(src='@/assets/curso/tema2/img04.svg' alt="Imagen decorativa")
               .col-lg-9(data-aos="fade-left")
                 .h4 Componente de manejo interno seguro
                 p.mb-0 Enfocado en las condiciones internas necesarias para el manejo del residuo, en este apartado se establecen acciones para acondicionamiento, manejo interno, almacenamiento, medidas de contingencia y entrega de residuos.
@@ -81,10 +81,10 @@
                 .h4 Componente de manejo externo
                 p.mb-0 También conocido como gestión externa, en este se clasifica el residuo, se cuantifica la generación, se establece el tratamiento y la disposición final requerida, y se selecciona el receptor o transportador fuera de las instalaciones de la organización.
               .col-lg-2.col-4.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-                img(src='@/assets/curso/tema2/img05.svg', alt='Componente de manejo externo')
+                img(src='@/assets/curso/tema2/img05.svg', alt='Imagen decorativa')
             .row.justify-content-center
               .col-lg-2.col-4.mb-lg-0.mb-4(data-aos="fade-right")
-                img(src='@/assets/curso/tema2/img06.svg' alt="Componente final de ejecución, seguimiento y evaluación")
+                img(src='@/assets/curso/tema2/img06.svg' alt="Imagen decorativa")
               .col-lg-9(data-aos="fade-left")
                 .h4 Componente final de ejecución, seguimiento y evaluación
                 p.mb-0 Se establecen responsabilidades, se determinan las necesidades de capacitación, seguimiento y el cronograma de actividades.
@@ -95,7 +95,7 @@
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema2/img07.jpg')})`}" data-aos="fade-right"
+        :style="{'background-image': `url(${require('@/assets/curso/tema2/img07.jpg')})`}" data-aos="fade-right" alt="Imagen decorativa"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Las características que hacen que un residuo sea considerado peligroso, son descritas a través del Decreto 1076 (2015), el cual compiló el Decreto 4741 (2005), en este último se describen por medio de los anexos I, II y III las características o componentes que puede hacer que un residuo sea peligroso, al igual que la codificación para identificarlo. 
@@ -151,7 +151,7 @@
         .cajon.color-acento-botones.p-4(data-aos="fade-right")
           p.mb-0 El fin de cuantificar es determinar el tipo de generador de residuos peligrosos, que puede ser la organización o institución, su importancia radica en que la normatividad legal vigente solicita ciertos reportes de los residuos peligrosos generados. A continuación presentamos cómo se realiza este proceso.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema2/img09.png' alt="Caracterización físico-química de residuos o desechos peligrosos")
+        img(src='@/assets/curso/tema2/img09.png' alt="Imagen decorativa")
 
     separador
     #t_2_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -177,12 +177,12 @@
               .h4 Pequeño generador
               p.mb-0 Persona que genera residuos o desechos peligrosos en cantidad igual o mayor a 10.0 kg/mes y menor a 100.0 kg/mes calendario, considerando los períodos de tiempo de generación del residuo y llevando promedios de los últimos seis (6) meses de las cantidades pesadas.
       .col-lg-3.img-01.d-lg-flex.d-none(data-aos="fade-left")
-        img(src='@/assets/curso/tema2/img10.svg' alt="Generadores de residuos o desechos peligrosos")
+        img(src='@/assets/curso/tema2/img10.svg' alt="Imagen decorativa")
 
     .BG10.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-3.col-6.mb-lg-0.mb-4.px-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema2/img11.svg' alt="Desechos peligrosos")
+          img(src='@/assets/curso/tema2/img11.svg' alt="Imagen decorativa")
         .col-lg-9(data-aos="fade-left")
           .h4 Nota importante
           p.mb-0 Los generadores de residuos o desechos peligrosos que generen una cantidad inferior a 10.0 kg/mes están exentos del registro. No obstante, lo anterior, la autoridad ambiental, con base en una problemática diagnosticada y de acuerdo con sus necesidades podrá exigir el registro de estos generadores, para lo cual deberá emitir el acto administrativo correspondiente. Luego la importancia de cuantificar correctamente los residuos peligrosos generados es para evitar problemas con las autoridades ambientales.
@@ -201,25 +201,25 @@
             .h4.mt-5 Reconocimiento
             p.mb-0 Reconocer el proceso o servicio que se evalúa respecto a la generación de residuos peligrosos puede hacerse de manera sencilla por medio de un diagrama de flujo donde se reconozca que entra a cada proceso y que se va generando.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img12.svg' alt="Reconocimiento")
+            img(src='@/assets/curso/tema2/img12.svg' alt="Imagen decorativa")
         .row.justify-content-center(titulo="2")
           .col-lg-6.order-lg-1.order-2
             .h4.mt-5 Medir y registrar
             p.mb-0 Una vez identificados los tipos de residuos se aconseja llevar un registro físico de la cantidad en peso y el tipo de residuo que se genera en el mes, se deben guardar registros constantes.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img13.svg' alt="Medir y registrar")
+            img(src='@/assets/curso/tema2/img13.svg' alt="Imagen decorativa")
         .row.justify-content-center(titulo="3")
           .col-lg-6.order-lg-1.order-2
             .h4.mt-5 Promediar
             p.mb-0 Luego de seis meses de llevar el registro, se toman esas mediciones y se promedian, para el séptimo mes se toma en cuenta las mediciones desde el segundo mes hasta el séptimo y se promedian, así, sucesivamente.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img14.svg' alt="Promediar")
+            img(src='@/assets/curso/tema2/img14.svg' alt="Imagen decorativa")
         .row.justify-content-center(titulo="4")
           .col-lg-6.order-lg-1.order-2
             .h4.mt-5 Obtener la media móvil
             p.mb-0 Para obtener la media móvil, se toman los seis últimos promedios, se suman y se divide por seis meses, y es el valor que identifica el tipo de generador.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img15.svg' alt="Obtener la media móvil")
+            img(src='@/assets/curso/tema2/img15.svg' alt="Imagen decorativa")
 
 
 

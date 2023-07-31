@@ -13,31 +13,31 @@
       SlyderA(tipo="b" data-aos="zoom-in")
         .row.justify-content-around.align-items-center
           .col-lg-3.col-6.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema4/img01.svg' alt="Remitente o propietario")
+            img(src='@/assets/curso/tema4/img01.svg' alt="Imagen decorativa")
           .col-lg-8
             .h4 Remitente o propietario
             p.mb-0 Es cualquier persona u organización que presente un residuo sólido peligroso para su transporte.
         .row.justify-content-around.align-items-center
           .col-lg-3.col-6.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema4/img02.svg' alt="Destinatario de la carga")
+            img(src='@/assets/curso/tema4/img02.svg' alt="Imagen decorativa")
           .col-lg-8
             .h4 Destinatario de la carga
             p.mb-0 Es cualquier persona u organización que reciba un residuo peligroso.
         .row.justify-content-around.align-items-center
           .col-lg-3.col-6.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema4/img03.svg' alt="Empresa transportadora")
+            img(src='@/assets/curso/tema4/img03.svg' alt="Imagen decorativa")
           .col-lg-8
             .h4 Empresa transportadora
             p.mb-0 Es la persona natural o jurídica habilitada por el Ministerio de Transporte para la movilización de los residuos peligrosos. 
         .row.justify-content-around.align-items-center
           .col-lg-3.col-6.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema4/img04.svg' alt="Conductor del vehículo")
+            img(src='@/assets/curso/tema4/img04.svg' alt="Imagen decorativa")
           .col-lg-8
             .h4 Conductor del vehículo
             p.mb-0 Es la persona encargada de maniobrar el vehículo.
         .row.justify-content-around.align-items-center
           .col-lg-3.col-6.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema4/img05.svg' alt="Propietario o tenedor del vehículo")
+            img(src='@/assets/curso/tema4/img05.svg' alt="Imagen decorativa")
           .col-lg-8
             .h4 Propietario o tenedor del vehículo
             p.mb-0 Es la persona a la cual se encuentra asignada la propiedad del vehículo en los sistemas de información de movilidad.
@@ -51,7 +51,7 @@
     .BG03.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-1.col-2(data-aos="fade-right")
-          img(src='@/assets/curso/tema4/img06.svg' alt="Vehículo")
+          img(src='@/assets/curso/tema4/img06.svg' alt="Imagen decorativa")
         .col(data-aos="fade-left")
           p.mb-0 El vehículo debe cumplir con las especificaciones técnicas del Ministerio de Transporte que se establecen en el artículo 5 del decreto 1609 (2002), entre las que se encuentran:
     
@@ -102,7 +102,7 @@
               i.fas.fa-check-circle(style="color: #4DB1F0;")
               | Colocarse sobre un fondo de color tal que contraste con ellos.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema4/img08.svg' alt="Transporte por carretera de sustancias químicas peligrosas y residuos peligrosos") 
+          img(src='@/assets/curso/tema4/img08.svg' alt="Imagen decorativa")
 
     .row.justify-content-start.mb-5
       .col-auto.BGRS08.px-5.py-3(data-aos="fade-right")
@@ -110,7 +110,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema4/img09.png')
+        img(src='@/assets/curso/tema4/img09.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Es la forma de identificar la sustancia química peligrosa que se está transportando sin importar el país de donde provenga, el número UN (por sus siglas en inglés United Nations) resuelve la problemática de los nombres técnicos de las sustancias químicas en cada idioma y los posibles cambios de nombre por los usos que se le dan.
         .cajon.color-acento-botones.p-4
@@ -146,11 +146,11 @@
               span 6
             p.mb-0 #[strong Disposiciones especiales:] condiciones especiales a las que están sujetas las sustancias peligrosas.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4.px-2(data-aos="fade-left")
-        img(src='@/assets/curso/tema4/img10.svg' alt="Digitación del checklist")
+        img(src='@/assets/curso/tema4/img10.svg' alt="Imagen decorativa")
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4.px-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema4/img11.svg' alt="Análisis del checklist")
+        img(src='@/assets/curso/tema4/img11.svg' alt="Imagen decorativa")
       .col-lg-6(data-aos="fade-left")
         ol.lista-ol--cuadro
           li 
@@ -180,7 +180,7 @@
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema4/img12.jpg')})`}" data-aos="fade-right" alt="Uso del gato en el carro"
+        :style="{'background-image': `url(${require('@/assets/curso/tema4/img12.jpg')})`}" data-aos="fade-right" alt="Imagen decorativa"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Las guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos se mencionan que el Ministerio de Transporte a través del artículo 30 del Código Nacional de Tránsito Terrestre (CNTT) “equipos de prevención y seguridad” establece que ningún vehículo podrá transitar por las vías del territorio nacional sin portar el siguiente equipo de carretera como mínimo:
@@ -217,7 +217,7 @@
               i.fas.fa-check-circle(style="color: #4DB1F0;")
               | Linterna.
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema4/img13.svg' alt="Equipo de carretera")
+          img(src='@/assets/curso/tema4/img13.svg' alt="Imagen decorativa")
 
     .row.justify-content-start.mb-5
       .col-auto.BGRS08.px-5.py-3(data-aos="fade-right")
@@ -227,7 +227,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema4/img14.png')
+        img(src='@/assets/curso/tema4/img14.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         TabsA.color-acento-contenido
           .tarjeta.BGR04.p-4(titulo="Extintor de incendios")
@@ -266,7 +266,7 @@
         .h4.text-white.mb-0 Requisitos técnicos
     
     figure(data-aos="zoom-in")
-      img(src='@/assets/curso/tema4/img15.png' alt="Funcionamiento de frenos, del sistema de dirección, del sistema de suspensión")
+      img(src='@/assets/curso/tema4/img15.png' alt="Imagen decorativa")
     .row.justify-content-center.mb-lg-0.mb-5
       .col-lg-10.BGR15.img-02.p-4(data-aos="fade-right")
         p.mb-0 Adicional a las señalizaciones y equipos para emergencias, es necesario que el vehículo que transporta residuos peligrosos cuente con perfecto funcionamiento de frenos, del sistema de dirección, del sistema de suspensión, del sistema de señales visuales y audibles permitidas y del sistema de escape de gases; además demostrar un estado adecuado de llantas, del conjunto de vidrios de seguridad y espejos según lo establecido en el CNTT y el cumplimiento de la norma de emisión de gases.
@@ -292,7 +292,7 @@
               i.fas.fa-check-circle(style="color: #4DB1F0;")
               | Cuando se transporten sustancias químicas peligrosas de Clase 2. Gases, deben cumplir con los requisitos del vehículo establecido en la resolución 074 (1996), la resolución 80505 (1997) y demás disposiciones que sobre el tema se dispongan.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema4/img16.png' alt="Requisitos técnicos")
+          img(src='@/assets/curso/tema4/img16.png' alt="Imagen decorativa")
         
     separador
     #t_4_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -301,7 +301,7 @@
     .BGM01.px-md-5.px-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema4/img17.svg' alt="Checklist condiciones técnicas de los vehículos")
+          img(src='@/assets/curso/tema4/img17.svg' alt="Imagen decorativa")
         .col-lg-8(data-aos="fade-left")
           p.mb-0 Las condiciones técnicas de los vehículos se pueden cumplir a cabalidad; sin embargo, para disminuir accidentes y efectos negativos hacia el medio ambiente y la población cercana es de vital importancia verificar procedimientos para cada una de las actividades que abarca la operación de transporte. Para ello se debe hacer revisión de los siguientes ítems:
     
@@ -322,12 +322,12 @@
         .BGR18.p-4.mb-4(data-aos="fade-right")
           p.my-2 Instrucciones y procedimientos sobre emergencias.
       .col-lg-3.d-lg-flex.d-none(data-aos="fade-left")
-        img(src='@/assets/curso/tema4/img18.svg' alt="Checklist control del manejo")
+        img(src='@/assets/curso/tema4/img18.svg' alt="Imagen decorativa")
 
     .BG03.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-1.col-2(data-aos="fade-right")
-          img(src='@/assets/curso/tema4/img19.svg' alt="Etiquetado")
+          img(src='@/assets/curso/tema4/img19.svg' alt="Imagen decorativa")
         .col(data-aos="fade-left")
           p.mb-0 Adicionalmente a la documentación, se deben cumplir con el principio de no mezclar sustancias peligrosas con alimentos y mantener la clasificación, etiquetado, embalaje y envase de las sustancias peligrosas.
     
@@ -341,7 +341,7 @@
     .BGM01.px-md-5.px-4.mb-5
       .row.justify-content-center
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema4/img20.png' alt="Operaciones de carga y descarga")
+          img(src='@/assets/curso/tema4/img20.png' alt="Imagen decorativa")
         .col-lg-8(data-aos="fade-left")
           ul.lista-ul--color.lista-ul--separador
             li(style="margin-bottom: 2px")
@@ -387,7 +387,7 @@
               i.fas.fa-check-circle(style="color: #4DB1F0;")
               | Lista de puestos de control de la empresa a lo largo de la ruta.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema4/img21.png' alt="Ruta seleccionada")
+          img(src='@/assets/curso/tema4/img21.png' alt="Imagen decorativa")
     
     .row.justify-content-start.mb-5
       .col-auto.BGRS08.px-5.py-3(data-aos="fade-right")
@@ -396,7 +396,7 @@
     .BG03.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-1.col-2(data-aos="fade-right")
-          img(src='@/assets/curso/tema4/img22.svg' alt="Documentos")
+          img(src='@/assets/curso/tema4/img22.svg' alt="Imagen decorativa")
         .col(data-aos="fade-left")
           p.mb-0 Para llevar seguimiento y control de los procesos que se realizan a través del transporte de residuos peligrosos es indispensable contar con los siguientes documentos.
     
@@ -446,7 +446,7 @@
     .BG03.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-2.col-3(data-aos="fade-right")
-          img(src='@/assets/curso/tema4/img23.svg' alt="Documentos")
+          img(src='@/assets/curso/tema4/img23.svg' alt="Imagen decorativa")
         .col.p-4(data-aos="fade-left")
           p.mb-0 Las remesas son los documentos establecidos de acuerdo con el código de comercio en su artículo 1010, allí se fijan las especificaciones del contrato de transporte y las condiciones del mismo, las remesas deben ser expedidas mínimo con dos ejemplares debido a que el transportador debe firmar y entregar un ejemplar al destinatario.
     
@@ -469,7 +469,7 @@
             .BG22.p-4(data-aos="flip-up")
               p.mb-0 Documento expedido por el estado donde autoriza a un vehículo a transportar sustancias peligrosas.
       .col-lg-3.d-lg-flex.d-none(data-aos="fade-left")
-        img(src='@/assets/curso/tema4/img24.svg' alt="Documentos estatales")
+        img(src='@/assets/curso/tema4/img24.svg' alt="Imagen decorativa")
       
     .row.justify-content-center.mb-5
       .col-lg-8.cajon.color-acento-botones.p-4(data-aos="flip-up")
@@ -489,37 +489,37 @@
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Nombre de la sustancia peligrosa, número UN, teléfono de fabricante, número de organismos de atención a emergencias.
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema4/img25.svg' alt="Identificación producto")
+          img(src='@/assets/curso/tema4/img25.svg' alt="Imagen decorativa")
       .row.justify-content-around(titulo="Identificación de peligros")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Efectos adversos a la salud y al medio ambiente, síntomas por contacto entre otros.
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema4/img26.svg' alt="Identificación de peligros")
+          img(src='@/assets/curso/tema4/img26.svg' alt="Imagen decorativa")
       .row.justify-content-around(titulo="Controles de exposición")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Alternativas de ingeniería para disminuir riesgos químicos y físicos, así como elementos de protección personal que se deben usar en la manipulación del residuo.
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema4/img27.svg' alt="Controles de exposición")
+          img(src='@/assets/curso/tema4/img27.svg' alt="Imagen decorativa")
       .row.justify-content-around(titulo="Estabilidad y reactividad")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Describe las condiciones que pueden resultar en reacciones químicas potencialmente peligrosas.
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema4/img28.svg' alt="Estabilidad y reactividad")
+          img(src='@/assets/curso/tema4/img28.svg' alt="Imagen decorativa")
       .row.justify-content-around(titulo="Medidas de primeros auxilios")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Instrucciones y protocolos para la atención de las personas con salud comprometida a causa de los residuos transportados.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema4/img29.svg' alt="Medidas de primeros auxilios")
+          img(src='@/assets/curso/tema4/img29.svg' alt="Imagen decorativa")
       .row.justify-content-around(titulo="Medidas para extinción de incendios")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Describe si hay propiedades explosivas en el residuo y las medidas para extinguir el fuego.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema4/img30.svg' alt="Medidas para extinción de incendios")
+          img(src='@/assets/curso/tema4/img30.svg' alt="Imagen decorativa")
       .row.justify-content-around(titulo="Medidas en caso de vertido accidental")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Protocolos para el control de derrames, goteos y fugas.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema4/img31.svg' alt="Medidas en caso de vertido accidental")
+          img(src='@/assets/curso/tema4/img31.svg' alt="Imagen decorativa")
 
     ol.lista-ol--cuadro.mb-5
       li 
@@ -530,7 +530,7 @@
     .BG23.p-4.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-3.col-6.px-3(data-aos="fade-right")
-          img(src='@/assets/curso/tema4/img32.svg' alt="Vehículo")
+          img(src='@/assets/curso/tema4/img32.svg' alt="Imagen decorativa")
         .col(data-aos="fade-left")
           p.mb-0 En este documento se debe consignar la hora de salida y llegada, la ruta seleccionada y los teléfonos en caso de emergencia.
       

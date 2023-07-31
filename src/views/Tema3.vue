@@ -22,7 +22,7 @@
     .BGM01.px-md-5.px-4.mb-5
       .row.justify-content-center
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema3/img01.svg' alt="Separación en la fuente")
+          img(src='@/assets/curso/tema3/img01.svg' alt="Imagen decorativa")
         .col-lg-8(data-aos="fade-left")
           ul.lista-ul--color.lista-ul--separador
             li(style="margin-bottom: 2px")
@@ -46,7 +46,7 @@
         .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
           p.mb-0 #[strong Nota:]  es deber de los usuarios realizar separación en la fuente cuando se haga recolección selectiva de residuos sólidos aprovechables, de acuerdo con las condiciones establecidas por los respectivos Planes de Gestión Integral de Residuos Sólidos-PGIRS y el Programa de Prestación del Servicio (Decreto 1077, 2015).
         .col-lg-2.col-4.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema3/img02.svg' alt="Realizar separación en la fuent")
+          img(src='@/assets/curso/tema3/img02.svg' alt="Imagen decorativa")
     
     separador
     #t_3_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -56,7 +56,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img03.png' alt="separación en la fuente según el tipo de residuo")
+        img(src='@/assets/curso/tema3/img03.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         TabsA.color-acento-contenido
           .tarjeta.BGR04.p-4(titulo="Plásticos")

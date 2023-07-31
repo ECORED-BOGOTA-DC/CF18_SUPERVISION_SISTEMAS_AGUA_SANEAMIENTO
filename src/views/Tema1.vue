@@ -10,7 +10,7 @@
     .BG03.p-4.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-1.col-2(data-aos="fade-right")
-          img(src='@/assets/curso/tema1/img01.svg' alt="Cantidad de residuos")
+          img(src='@/assets/curso/tema1/img01.svg' alt="Imagen decorativa")
         .col(data-aos="fade-left")
           p.mb-0 Teniendo en cuenta la cantidad de residuos que se pueden generar en los territorios, la cual puede ser directamente proporcional al crecimiento de la población, las autoridades ambientales han creado estrategias para lograr la disminución de los residuos generados, lo que se conoce como control en la fuente. Estas estrategias pueden ser genéricas a todas las poblaciones, pero cada región o localidad aplica la que sea acorde, atendiendo las características socioculturales particulares que se evidencian en el tipo, cantidad y especificaciones de los residuos generados.
     
@@ -20,7 +20,7 @@
         .cajon.color-acento-botones.p-4
           p.mb-0 Se definió también que cada territorio debe crear y mantener actualizado su documento denominado Planes de Gestión Integral de Residuos Sólidos (Pgirs), Instrumento de planeación municipal o regional que busca garantizar el mejoramiento continuo del manejo de residuos y la prestación del servicio de aseo en los ámbitos municipal o regional. Los PGIRS deben centrarse en los residuos no peligrosos: aprovechables, no aprovechables y especiales.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img02.png' alt="Metodologías de muestreo y separación de residuos")
+        img(src='@/assets/curso/tema1/img02.png' alt="Imagen decorativa")
     
     separador
     #t_1_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -30,7 +30,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img03.svg' alt="Plan de gestión integral de residuos sólidos (Pgirs)")
+        img(src='@/assets/curso/tema1/img03.svg' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         TabsA.color-acento-contenido
           .tarjeta.BGR04.p-4(titulo="Organización")
@@ -106,7 +106,7 @@
     .BG05.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-3.col-6.mb-lg-0.px-3.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema1/img04.svg' alt="Caracterización de residuos sólidos")
+          img(src='@/assets/curso/tema1/img04.svg' alt="Imagen decorativa")
         .col-lg-9(data-aos="fade-left")
           p.mb-0 Determinar la cantidad de residuos sólidos que genera un municipio y de qué tipo son, es de vital importancia porque a partir de los resultados obtenidos se establecen diferentes aspectos de la logística tanto de transporte como de tratamiento y disposición final. El objetivo principal de la caracterización de los residuos es obtener el mejor aprovechamiento de los recursos planteados en el PGIRS, así como brindar información para la mejora continua del mismo.
     
@@ -117,19 +117,19 @@
         .col-lg.tarjeta.BG06.p-5(data-aos="fade-right")
           .row.justify-content-center.mb-4
             .col-6
-              img(src='@/assets/curso/tema1/img05.svg' alt="Muestreo")
+              img(src='@/assets/curso/tema1/img05.svg' alt="Imagen decorativa")
           .h4.text-center Muestreo
           p.text-center.mb-0 Se establece una muestra representativa dentro de una zona determinada del municipio, los residentes de esta zona entregarán al personal encargado de la caracterización los residuos por un lapso de 8 días (no lo hacen al prestador de servicio habitual).
         .col-lg.tarjeta.BG07.p-5(data-aos="flip-up")
           .row.justify-content-center.mb-4
             .col-6
-              img(src='@/assets/curso/tema1/img06.svg' alt="Tabulación")
+              img(src='@/assets/curso/tema1/img06.svg' alt="Imagen decorativa")
           .h4.text-center Tabulación
           p.text-center.mb-0 Durante los 8 días del muestreo personal calificado pesará, separará y almacenará los residuos sólidos de los habitantes de la zona a estudiar y evaluará la información obtenida.
         .col-lg.tarjeta.color-primario.p-5(data-aos="fade-left")
           .row.justify-content-center.mb-4
             .col-6
-              img(src='@/assets/curso/tema1/img07.svg' alt="Informe")
+              img(src='@/assets/curso/tema1/img07.svg' alt="Imagen decorativa")
           .h4.text-center Informe
           p.text-center.mb-0 El personal especializado realizará un informe detallado sobre los resultados obtenidos en la caracterización de los residuos de la muestra en el municipio.
 
@@ -152,7 +152,7 @@
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/tema1/img08.svg', alt='Infografia recurso humano')
+              img(src='@/assets/curso/tema1/img08.svg', alt='Imagen decorativa')
           .tarjeta.BGR04.p-3(x="32.5%" y="24%" numero="1")
             .h5.mb-2 Operarios
             p Personas encargadas de realizar encuestas a los usuarios del servicio de aseo, levantan información sobre hábitos de consumo, satisfacción con el servicio, posibles mejoras, entre otras.
@@ -176,31 +176,31 @@
       .tarjeta.BGR06.p-4
         .row.justify-content-center.mb-3
           .col-lg-8.col-6
-            img(src='@/assets/curso/tema1/img09.svg' alt='Vehículo')
+            img(src='@/assets/curso/tema1/img09.svg' alt='Imagen decorativa')
         h4.text-center Vehículo
         p.text-center.mb-0 Se utilizará para recolección de las muestras de los usuarios seleccionados.
       .tarjeta.BGR06.p-4
         .row.justify-content-center.mb-3
           .col-lg-8.col-6
-            img(src='@/assets/curso/tema1/img10.svg' alt='Depósitos')
+            img(src='@/assets/curso/tema1/img10.svg' alt='Imagen decorativa')
         h4.text-center Depósitos
         p.text-center.mb-0 Se dispondrán allí los residuos para las mediciones de densidad, deben estar sin abolladuras y limpios, se sugiere una capacidad de 200 litros.
       .tarjeta.BGR06.p-4
         .row.justify-content-center.mb-3
           .col-lg-8.col-6
-            img(src='@/assets/curso/tema1/img11.svg' alt='Elementos de protección')
+            img(src='@/assets/curso/tema1/img11.svg' alt='Imagen decorativa')
         h4.text-center Elementos de protección
         p.text-center.mb-0 Todos los operarios, técnicos y coordinadores deben contar con overol, guantes, mascarillas, botas y gafas de seguridad cuando se esté realizando la caracterización.
       .tarjeta.BGR06.p-4
         .row.justify-content-center.mb-3
           .col-lg-8.col-6
-            img(src='@/assets/curso/tema1/img12.svg' alt='Herramientas')
+            img(src='@/assets/curso/tema1/img12.svg' alt='Imagen decorativa')
         h4.text-center Herramientas
         p.text-center.mb-0 Se requieren para la manipulación de los residuos tales como escobas, recogedores, contenedores de residuos pequeños.
       .tarjeta.BGR06.p-4
         .row.justify-content-center.mb-3
           .col-lg-8.col-6
-            img(src='@/assets/curso/tema1/img13.svg' alt='Papelería')
+            img(src='@/assets/curso/tema1/img13.svg' alt='Imagen decorativa')
         h4.text-center Papelería
         p.text-center.mb-0 Formatos para consignar los valores obtenidos, tableros para dejar indicaciones, marcadores, bolsa para almacenar temporalmente residuos, cinta, entre otros.
 
@@ -212,7 +212,7 @@
     .BG03.p-4.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-1.col-2(data-aos="fade-right")
-          img(src='@/assets/curso/tema1/img14.svg' alt="Ubicar los residuos que se recogen en la zona de muestreo")
+          img(src='@/assets/curso/tema1/img14.svg' alt="Imagen decorativa")
         .col(data-aos="fade-left")
           p.mb-0 Poder ubicar los residuos que se recogen en la zona de muestreo durante ocho días requiere de un espacio que cumpla con una serie de condiciones que minimicen los impactos ambientales negativos asociados a la acumulación de dichos residuos.
     
@@ -223,17 +223,17 @@
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Todos los colaboradores deben poder movilizarse con facilidad, los residuos recolectados en el lapso de 8 días deben poder almacenarse y adicional los vehículos de recolección deben poder ingresar al espacio disponible. Se recomienda que el espacio designado a la caracterización de los residuos sea lo más cercano a la zona donde se está obteniendo la muestra.
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema1/img15.png' alt="Espacio amplio")
+          img(src='@/assets/curso/tema1/img15.png' alt="Imagen decorativa")
       .row.justify-content-center(titulo="Ventilación e iluminación")
         .col-lg-5.col-10.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema1/img16.png' alt="Ventilación e iluminación")
+          img(src='@/assets/curso/tema1/img16.png' alt="Imagen decorativa")
         .col-lg-7
           p.mb-0 El espacio debe contar con ventilación e iluminación natural, y debe cumplir con dos condiciones, la primera: debe haber una cubierta para que la lluvia no cambie las propiedades físicas de los residuos y la segunda: no se deben producir ráfagas de viento que levante los residuos más livianos para que no se pierda masa en la muestra seleccionada.    
       .row.justify-content-center(titulo="Arquitectura")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 El lugar debe contar con piso liso, en ningún momento se puede considerar pisos de tierra, arena o similares debido a que estos se mezclan con los residuos aumentando la masa, no debe tener inclinaciones para que los camiones puedan acceder con facilidad, debe contar con todos los servicios sanitarios para mantener la salubridad de los colaboradores.
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema1/img17.png' alt="Arquitectura")
+          img(src='@/assets/curso/tema1/img17.png' alt="Imagen decorativa")
 
     .row.justify-content-start.mb-5
       .col-auto.BGRS08.px-5.py-3(data-aos="fade-right")
@@ -242,7 +242,7 @@
     .BG03.p-4.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-1.col-2(data-aos="fade-right")
-          img(src='@/assets/curso/tema1/img18.svg' alt="Procedimiento para llevar a cabo la caracterización")
+          img(src='@/assets/curso/tema1/img18.svg' alt="Imagen decorativa")
         .col(data-aos="fade-left")
           p.mb-0 Una vez se tienen disponibles todos los recursos que serán necesarios en la caracterización, se deben tener en cuenta una serie de actividades que se deben realizar para hacer de los resultados lo más confiables posibles y minimizar el error en la medición.
 
@@ -255,14 +255,14 @@
             p El primer paso para llevar a cabo la caracterización es hacer una revisión de antecedentes, consultar si alguna empresa u organización (pública o privada) ha realizado un proceso similar.
             p.mb-0 Cuando se han realizado anteriormente las caracterizaciones se pueden ver plasmadas las dificultades que se han tenido en la realización para no cometer los mismos errores y para optimizar los procesos.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img19.svg' alt="Revisión de antecedentes")
+            img(src='@/assets/curso/tema1/img19.svg' alt="Imagen decorativa")
       .BG04.pt-md-5.pt-4.pb-4(titulo="Divulgación")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
             p Los usuarios son parte fundamental del sistema de aseo del municipio, por ello se deben mantener informados sobre las actividades que se realicen en el marco del Pgirs.
             p.mb-0 Es importante aprovechar los espacios de grupos organizados y canales de comunicación locales, para generar una mayor participación comunitaria propiciando una buena comunicación; asimismo, permitirá confirmar o fortalecer la información previamente recolectada.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img20.svg' alt="Informar las actividades")
+            img(src='@/assets/curso/tema1/img20.svg' alt="Imagen decorativa")
 
 </template>
 
