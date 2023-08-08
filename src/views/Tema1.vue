@@ -244,7 +244,7 @@
         .col-lg-1.col-2(data-aos="fade-right")
           img(src='@/assets/curso/tema1/img18.svg' alt="Imagen decorativa")
         .col(data-aos="fade-left")
-          p.mb-0 Una vez se tienen disponibles todos los recursos que serán necesarios en la caracterización, se deben tener en cuenta una serie de actividades que se deben realizar para hacer de los resultados lo más confiables posibles y minimizar el error en la medición.
+          p.mb-0 Una vez se tienen disponibles todos los recursos que serán necesarios en la caracterización, se deben tener en cuenta una serie de actividades que se deben realizar para hacer de los resultados lo más confiable posible y minimizar el error en la medición.
 
     p.mb-5 Las actividades a tener en cuenta son:
 

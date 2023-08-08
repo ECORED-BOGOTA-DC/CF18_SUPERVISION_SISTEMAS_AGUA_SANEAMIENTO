@@ -47,7 +47,7 @@
           .col-lg-8.col-6
             img(src='@/assets/curso/tema7/img05.svg' alt='Imagen decorativa')
         .h3.text-center Autoclave
-        p.text-center Esta técnica además de la evaporación del agua mediante calor y presión esteriliza los residuos minimizando su riesgo biológico.
+        p.text-center Esta técnica, además de la evaporación del agua mediante calor y presión, esteriliza los residuos, minimizando su riesgo biológico.
       .tarjeta.BGR06.p-4
         .row.justify-content-center.mb-3
           .col-lg-8.col-6
@@ -67,6 +67,9 @@
           img(src='@/assets/curso/tema7/img07.svg' alt="Imagen decorativa")
         .col-lg-8(data-aos="fade-left")
           ul.lista-ul--color.lista-ul--separador
+            li(style="margin-bottom: 2px")
+              i.fas.fa-check-circle(style="color: #4DB1F0;")
+              p.mb-0 Adición de un componente químico
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle(style="color: #4DB1F0;")
               p.mb-0 #[strong Oxidación y reducción química:] adición de componentes ricos en oxígeno para la transformación de componentes peligrosos.

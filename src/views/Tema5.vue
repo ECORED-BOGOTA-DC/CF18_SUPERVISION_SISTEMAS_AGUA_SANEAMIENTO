@@ -102,8 +102,8 @@
     .BGM01.px-md-5.px-4.mt-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema5/img05.svg')
-    Imagen decorativa")
+          img(src='@/assets/curso/tema5/img05.svg' alt="Imagen decorativa")
+        .col-lg-8(data-aos="fade-left")
           p.mb-0 De acuerdo con el Ministerio de Ambiente, Vivienda y Desarrollo Territorial (MAVDT) y el consejo colombiano de seguridad (CCS), (s.f.), en la guía ambiental de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos, un factor importante para disminuir los impactos ambientales en un sitio de almacenamiento es contar con un lugar adecuado que reúna todas las condiciones necesarias para esta actividad. Para los nuevos sitios destinados al almacenamiento de sustancias y residuos peligrosos se recomienda que dentro de la planeación se contemplen los requisitos aquí descritos y para aquellas que ya están en funcionamiento lo aconsejable es realizar todas las medidas posibles para alcanzar estos requerimientos.
     
     .BGM01.px-md-5.px-4.mt-4.mb-5

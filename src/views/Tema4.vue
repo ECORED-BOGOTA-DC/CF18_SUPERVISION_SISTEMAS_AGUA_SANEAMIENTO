@@ -112,7 +112,7 @@
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema4/img09.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
-        p Es la forma de identificar la sustancia química peligrosa que se está transportando sin importar el país de donde provenga, el número UN (por sus siglas en inglés United Nations) resuelve la problemática de los nombres técnicos de las sustancias químicas en cada idioma y los posibles cambios de nombre por los usos que se le dan.
+        p Es la forma de identificar la sustancia química peligrosa que se está transportando sin importar el país de donde provenga, el número UN (por sus siglas en inglés #[em United Nations]) resuelve la problemática de los nombres técnicos de las sustancias químicas en cada idioma y los posibles cambios de nombre por los usos que se le dan.
         .cajon.color-acento-botones.p-4
           p.mb-0 La placa debe tener un fondo naranja y los bordes y números deben ser negros, las dimensiones deben ser 30cm x 12 cm, el número correspondiente a cada sustancia química se puede consultar en el libro “recomendaciones relativas al transporte de mercancías peligrosas. Reglamento modelo”. Comúnmente conocido como libro naranja.
 
@@ -216,6 +216,9 @@
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle(style="color: #4DB1F0;")
               | Linterna.
+            li(style="margin-bottom: 2px")
+              i.fas.fa-check-circle(style="color: #4DB1F0;")
+              | Equipo de carretera.
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
           img(src='@/assets/curso/tema4/img13.svg' alt="Imagen decorativa")
 
@@ -259,7 +262,7 @@
                 | Bolsas de polietileno de alta densidad, para depositar temporalmente los desechos de los derrames.
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #4DB1F0;")
-                | Masillas epoxy para reparar fisuras.
+                | Masilla epoxi para reparar fisuras.
 
     .row.justify-content-start.mb-5
       .col-auto.BGRS08.px-5.py-3(data-aos="fade-right")
@@ -344,6 +347,9 @@
           img(src='@/assets/curso/tema4/img20.png' alt="Imagen decorativa")
         .col-lg-8(data-aos="fade-left")
           ul.lista-ul--color.lista-ul--separador
+            li(style="margin-bottom: 2px")
+              i.fas.fa-check-circle(style="color: #4DB1F0;")
+              | Operaciones de carga y descarga.
             li(style="margin-bottom: 2px")
               i.fas.fa-check-circle(style="color: #4DB1F0;")
               | Utilizar protección personal durante estas labores.

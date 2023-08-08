@@ -36,7 +36,7 @@
                 | Elaborar un plan de gestión integral de los residuos o desechos peligrosos tendiente a prevenir la generación y reducción en la fuente, así como, minimizar la cantidad y peligrosidad de los mismos. En este plan deberá igualmente documentar el origen, cantidad, características de peligrosidad y manejo que se dé a los residuos o desechos peligrosos. Este plan no requiere ser presentado a la autoridad ambiental, no obstante, lo anterior, deberá estar disponible para cuando esta realice actividades propias de control y seguimiento ambiental.
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #4DB1F0;")
-                | Identificar las características de peligrosidad de cada uno de los residuos o desechos peligrosos que genere, para lo cual podrá tomar como referencia el procedimiento establecido en el presente título sin perjuicio de lo cual la autoridad ambiental podrá exigir en determinados casos la caracterización físico- química de los residuos o desechos si así lo estima conveniente o necesario.
+                | Identificar las características de peligrosidad de cada uno de los residuos o desechos peligrosos que genere, para lo cual podrá tomar como referencia el procedimiento establecido en el presente título sin perjuicio de lo cual la autoridad ambiental podrá exigir en determinados casos la caracterización fisicoquímica de los residuos o desechos si así lo estima conveniente o necesario.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
           img(src='@/assets/curso/tema2/img02.svg' alt="Imagen decorativa")
 
@@ -123,7 +123,7 @@
 
       .row.justify-content-center.mb-5
         .col-lg-6(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img08.svg' alt="Decreto 1076, articulo 2.2.6.1.2.3<br>Con base en el conocimiento técnico sobre las características de los insumos y procesos, se puede identificar si el residuo posee una o varias de las características que le otorgarían la calidad de peligroso. <br>A través de las listas de residuos o desechos peligrosos contenidas en el Anexo I y II de decreto. <br>A través de la caracterización físico-química de los residuos o desechos generados.")
+          img(src='@/assets/curso/tema2/img08.svg' alt="Decreto 1076, articulo 2.2.6.1.2.3<br>Con base en el conocimiento técnico sobre las características de los insumos y procesos, se puede identificar si el residuo posee una o varias de las características que le otorgarían la calidad de peligroso. <br>A través de las listas de residuos o desechos peligrosos contenidas en el Anexo I y II de decreto. <br>A través de la caracterización fisicoquímica de los residuos o desechos generados.")
       
       p.mb-5 Si se debe preferir, esta última opción, la caracterización debe ser desarrollada bajo estándares normativos vigentes, los cuales especificarán el procedimiento adecuado y seguro para la identificación de la peligrosidad.
 
@@ -147,7 +147,7 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.order-lg-1.order-2
-        p La caracterización físico-química de residuos o desechos peligrosos debe efectuarse en laboratorios acreditados. Es importante aclarar que el generador de un residuo o desecho peligroso debe actualizar la caracterización de sus residuos o desechos peligrosos, particularmente si se presentan cambios en el proceso que genera el residuo en cuestión; esos cambios pueden incluir, entre otros, variaciones en los insumos y variaciones en las condiciones de operación (Decreto 1076, 2015).
+        p La caracterización fisicoquímica de residuos o desechos peligrosos debe efectuarse en laboratorios acreditados. Es importante aclarar que el generador de un residuo o desecho peligroso debe actualizar la caracterización de sus residuos o desechos peligrosos, particularmente si se presentan cambios en el proceso que genera el residuo en cuestión; esos cambios pueden incluir, entre otros, variaciones en los insumos y variaciones en las condiciones de operación (Decreto 1076, 2015).
         .cajon.color-acento-botones.p-4(data-aos="fade-right")
           p.mb-0 El fin de cuantificar es determinar el tipo de generador de residuos peligrosos, que puede ser la organización o institución, su importancia radica en que la normatividad legal vigente solicita ciertos reportes de los residuos peligrosos generados. A continuación presentamos cómo se realiza este proceso.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")

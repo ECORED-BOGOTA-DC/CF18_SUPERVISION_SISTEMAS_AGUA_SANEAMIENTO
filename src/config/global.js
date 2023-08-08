@@ -92,24 +92,14 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Código de colores a nivel nacional',
+            titulo: 'Condiciones para la separación en la fuente',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Código de colores a nivel empresarial',
-            hash: 't_3_2',
-          },
-          {
-            numero: '3.3',
-            titulo: 'Condiciones para la separación en la fuente',
-            hash: 't_3_3',
-          },
-          {
-            numero: '3.4',
             titulo:
               'Condiciones para la separación en la fuente según el tipo de residuo',
-            hash: 't_3_4',
+            hash: 't_3_2',
           },
         ],
       },
